@@ -7,7 +7,7 @@ category: Navigationpro
 
 # Menu Item Name Renderer
 
-This element allows you to change default item name renderer with oyur own.
+This element allows you to change default item name renderer with your own.
 
 ![New Item Panel](/images/m2/navigationpro/ui/menu-item-name.png)
 
